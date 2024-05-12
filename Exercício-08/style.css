@@ -10,3 +10,17 @@ header{
 body{
     background-color: #B0C4DE;
 }
+a{
+    background-color: #B0C4DE;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+.contato{
+    background-color: #708090;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
