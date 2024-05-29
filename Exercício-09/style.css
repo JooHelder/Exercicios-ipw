@@ -45,3 +45,41 @@
 .carmelo{
     background-color: #CD853F;
 }
+
+.divisoes{
+    background-color: green;
+    width: 700px;
+    height: 200px;
+    margin: 10px auto;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.t1{
+    width: 155px;
+    height: 138px;
+}
+
+.loja{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 10px;
+}
+
+.preco{
+    color: white;
+}
+
+.rodape{
+    background-color: #333;
+    padding: 100px;
+    text-align: center;
+    margin-top: 400px;
+}
+
+.name{
+    color: white;
+}
